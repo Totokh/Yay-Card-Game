@@ -1,0 +1,1 @@
+If discord gateway error => Do kill 1 in console/terminal
